@@ -1,0 +1,8 @@
+flickr_secrets.py
+data
+moran/*
+images/*
+logging/*
+.ipynb_checkpoints
+__pycache__
+*/__pycache__
